@@ -1,0 +1,24 @@
+.name{
+    color: #e40b0b;
+    margin: 10px 0px ;
+
+}
+.bio{
+    color: #1a06cf;
+}
+
+div{
+  background-color: #ffffff;
+  text-align: center;
+  margin: 20px;
+}
+.hobbies{
+    list-style-type: none;
+    padding: 0;
+}
+.hobby{
+    background-color: #f0f0f0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
