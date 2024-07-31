@@ -1,0 +1,67 @@
+.akar-iconfacebook-fill,
+.akar-iconstwitter-fill {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.post-frame-child {
+  align-self: stretch;
+  height: 870px;
+  position: relative;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-white);
+  display: none;
+}
+
+.brand-frame {
+  width: 186px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 24px 0 0;
+  box-sizing: border-box;
+}
+.brand-frame, .secondary-frame{
+  display: flex;
+  justify-content: flex-start;
+}
+.secondary-frame {
+  width: 450px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.instagram-post-1,
+.post-frame {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.post-frame {
+  width: 706px;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-white);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 34px;
+  gap: 10px;
+  z-index: 2;
+  text-align: left;
+  font-size: 48px;
+  color: var(-color-gray);
+  font-family: var(--font-poppins);
+}
+
+.instagram-post-1 {
+  width: 100%;
+  position: relative;
+  background-color: #a1a1a1;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 105px 20px;
+}
