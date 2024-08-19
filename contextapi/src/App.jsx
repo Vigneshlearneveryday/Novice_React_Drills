@@ -44,7 +44,7 @@ const Counter = () => {
 const App = () => {
   return (
     <div className="app-container">
-      <h1 className="title">React Counter</h1>
+      <h1 className="title">React Counter App</h1>
       <p className="sub-description">
         A simple counter application using Context API
       </p>
