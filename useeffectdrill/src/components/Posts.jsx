@@ -41,7 +41,7 @@ const Posts = () => {
 
   return (
     <div>
-      <h1>Network Request</h1>
+      <h1>Network Request </h1>
       <div>
         {posts.map((post) => {
           return (
