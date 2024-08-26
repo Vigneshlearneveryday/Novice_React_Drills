@@ -29,7 +29,7 @@ const Counter = () => {
         Decrement
       </button>
       <button onClick={resetCounter} style={{ margin: "0 5px" }}>
-        Reset
+        Reset.!
       </button>
     </div>
   );
